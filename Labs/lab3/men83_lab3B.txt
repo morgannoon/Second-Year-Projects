@@ -1,0 +1,6 @@
+B1: 0x10010000
+B2: 0x10010002
+B3: 0x10010004
+B4: 2752554
+B5: address is not aligned in the word boundary, divisible by 4
+B6: 0

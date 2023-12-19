@@ -1,0 +1,6 @@
+C1: 0x78563412
+C2: 0x10010002
+C3: 0x12345678
+C4: 0x12
+C5:0x12
+C6: little endian, least significant byte at the smallest address
